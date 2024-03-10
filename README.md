@@ -22,4 +22,4 @@ The CSS file contains styles for various elements on the page, including layout,
 ### JavaScript File (script.js):
 This JavaScript file adds interactivity to the page. It handles tasks such as adding tasks to the list, marking tasks as completed, deleting tasks, and filtering tasks based on their status.
 ### Images Folder: 
-Contains any images used in the To-Do List page, if applicable.
+Containsimages used in the project, if applicable.
