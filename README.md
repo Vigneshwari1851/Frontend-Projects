@@ -2,8 +2,8 @@
 Watch Store Landing Page! This project is a simple web page built using HTML, CSS, and JavaScript. 
 To-Do List Application! This project is a simple web-based task management tool built using HTML, CSS, and JavaScript. Below you'll find instructions on how to use the application and some notes on its structure.
 ## Where to play it?
-Landing page : https://htmlpreview.github.io/?https://github.com/Vigneshwari1851/Frontend-Projects/blob/main/Land/index.html
-TODO List : 
+###Landing page : https://htmlpreview.github.io/?https://github.com/Vigneshwari1851/Frontend-Projects/blob/main/Land/index.html
+###TODO List : https://htmlpreview.github.io/?https://github.com/Vigneshwari1851/Frontend-Projects/blob/main/To%20do%20list/index.html
 ## Some info about Landing Page
 Watch Store Landing Page!
 ### HTML File (index.html): 
